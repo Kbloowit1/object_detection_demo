@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tray redo</folder>
+	<filename>wytze_imgA (26).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\tray redo\wytze_imgA (26).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>168</ymin>
+			<xmax>321</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tray</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>62</ymin>
+			<xmax>481</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

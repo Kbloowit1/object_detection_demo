@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized temp</folder>
+	<filename>CupTray (42).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\resized temp\CupTray (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1062</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>304</ymin>
+			<xmax>283</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>
