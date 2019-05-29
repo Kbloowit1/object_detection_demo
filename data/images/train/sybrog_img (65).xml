@@ -1,7 +1,7 @@
 <annotation>
-	<folder>trainfoto</folder>
+	<folder>tray redo</folder>
 	<filename>sybrog_img (65).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\wytze trainfoto\trainfoto\sybrog_img (65).jpg</path>
+	<path>C:\Users\Ikke\Desktop\tray redo\sybrog_img (65).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tray_left</name>
+		<name>tray</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>456</xmin>
-			<ymin>782</ymin>
-			<xmax>771</xmax>
-			<ymax>929</ymax>
+			<xmin>464</xmin>
+			<ymin>675</ymin>
+			<xmax>803</xmax>
+			<ymax>926</ymax>
 		</bndbox>
 	</object>
 </annotation>

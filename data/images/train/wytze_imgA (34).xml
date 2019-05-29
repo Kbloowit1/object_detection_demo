@@ -1,7 +1,7 @@
 <annotation>
-	<folder>trainfoto</folder>
+	<folder>tray redo</folder>
 	<filename>wytze_imgA (34).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\wytze trainfoto\trainfoto\wytze_imgA (34).jpg</path>
+	<path>C:\Users\Ikke\Desktop\tray redo\wytze_imgA (34).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>tray_right</name>
+		<name>tray</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>roodbakje</folder>
+	<folder>tray redo</folder>
 	<filename>red_tray (16).jpg</filename>
-	<path>C:\Users\klaas\OneDrive\Afbeeldingen\roodbakje\red_tray (16).jpg</path>
+	<path>C:\Users\Ikke\Desktop\tray redo\red_tray (16).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tray_left</name>
+		<name>tray</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>16</xmin>
-			<ymin>26</ymin>
-			<xmax>479</xmax>
-			<ymax>252</ymax>
+			<xmin>15</xmin>
+			<ymin>9</ymin>
+			<xmax>482</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 </annotation>

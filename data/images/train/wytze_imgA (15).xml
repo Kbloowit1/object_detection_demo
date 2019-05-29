@@ -1,7 +1,7 @@
 <annotation>
-	<folder>trainfoto</folder>
+	<folder>tray redo</folder>
 	<filename>wytze_imgA (15).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\wytze trainfoto\trainfoto\wytze_imgA (15).jpg</path>
+	<path>C:\Users\Ikke\Desktop\tray redo\wytze_imgA (15).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tray_left</name>
+		<name>tray</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>155</xmin>
-			<ymin>8</ymin>
-			<xmax>398</xmax>
-			<ymax>233</ymax>
+			<xmin>150</xmin>
+			<ymin>7</ymin>
+			<xmax>469</xmax>
+			<ymax>231</ymax>
 		</bndbox>
 	</object>
 </annotation>

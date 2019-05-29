@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp2resize</folder>
+	<filename>KipKuilW (71).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\temp2resize\KipKuilW (71).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1062</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>900</xmin>
+			<ymin>338</ymin>
+			<xmax>1035</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>
