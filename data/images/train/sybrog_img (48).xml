@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tray redo</folder>
+	<filename>sybrog_img (48).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\tray redo\sybrog_img (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tray</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>438</ymin>
+			<xmax>686</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>
