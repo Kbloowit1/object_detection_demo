@@ -1,7 +1,7 @@
 <annotation>
-	<folder>eifotos harm en niels</folder>
+	<folder>train</folder>
 	<filename>harmniels_img (53).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\ei\eifotos harm en niels\harmniels_img (53).jpg</path>
+	<path>C:\Users\Ikke\source\repos\object_detection_demo\data\images\train\harmniels_img (53).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>66</ymin>
 			<xmax>381</xmax>
 			<ymax>125</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>19</ymin>
+			<xmax>263</xmax>
+			<ymax>120</ymax>
 		</bndbox>
 	</object>
 </annotation>

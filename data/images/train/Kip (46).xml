@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kip</folder>
+	<folder>train</folder>
 	<filename>Kip (46).jpg</filename>
-	<path>C:\Users\klaas\OneDrive\Afbeeldingen\kip\Kip (46).jpg</path>
+	<path>C:\Users\Ikke\source\repos\object_detection_demo\data\images\train\Kip (46).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chicken_front</name>
+		<name>chicken</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

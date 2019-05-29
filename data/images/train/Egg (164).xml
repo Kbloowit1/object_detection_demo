@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Egg (51).jpg</filename>
-	<path>C:\Users\Ikke\Downloads\train\train\Egg (51).jpg</path>
+	<filename>Egg (164).jpg</filename>
+	<path>C:\Users\Ikke\source\repos\object_detection_demo\data\images\train\Egg (164).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>81</xmin>
-			<ymin>165</ymin>
-			<xmax>215</xmax>
-			<ymax>298</ymax>
+			<ymin>121</ymin>
+			<xmax>320</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 </annotation>
