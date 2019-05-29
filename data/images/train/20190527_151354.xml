@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Foto's ei</folder>
+	<filename>20190527_151354.jpg</filename>
+	<path>C:\Users\sybri\Desktop\Foto's ei\20190527_151354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>168</ymin>
+			<xmax>192</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
