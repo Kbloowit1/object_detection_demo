@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'chicken'
+}
+
+item {
+    id: 2
+    name: 'cup'
+}
+
+item {
+    id: 3
+    name: 'egg'
+}
+
+item {
+    id: 4
+    name: 'stairs'
+}
+
+item {
+    id: 5
+    name: 'tray'
+}
+
+item {
+    id: 6
+    name: 'tray_front'
+}
+
+item {
+    id: 7
+    name: 'tray_left'
+}
+
+item {
+    id: 8
+    name: 'tray_right'
+}
