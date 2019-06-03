@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>Kip (8).jpg</filename>
-	<path>C:\tensorflow1\models\research\object_detection\images\test\Kip (8).jpg</path>
+	<path>C:\Users\Ikke\source\repos\klaasODD\data\images\test\Kip (8).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chicken_right</name>
+		<name>chicken</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>129</xmin>
+			<xmin>43</xmin>
 			<ymin>157</ymin>
-			<xmax>323</xmax>
+			<xmax>313</xmax>
 			<ymax>545</ymax>
 		</bndbox>
 	</object>

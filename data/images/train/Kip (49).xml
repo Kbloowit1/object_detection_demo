@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>Kip (49).jpg</filename>
-	<path>C:\Users\Ikke\source\repos\object_detection_demo\data\images\train\Kip (49).jpg</path>
+	<path>C:\Users\Ikke\source\repos\klaasODD\data\images\train\Kip (49).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>161</xmin>
-			<ymin>240</ymin>
-			<xmax>267</xmax>
+			<ymin>243</ymin>
+			<xmax>338</xmax>
 			<ymax>500</ymax>
 		</bndbox>
 	</object>

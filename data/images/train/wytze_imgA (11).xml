@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tray redo</folder>
+	<folder>train</folder>
 	<filename>wytze_imgA (11).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\tray redo\wytze_imgA (11).jpg</path>
+	<path>C:\Users\Ikke\source\repos\klaasODD\data\images\train\wytze_imgA (11).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>53</xmin>
+			<xmin>54</xmin>
 			<ymin>13</ymin>
 			<xmax>462</xmax>
-			<ymax>308</ymax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 </annotation>

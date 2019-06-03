@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tray redo</folder>
+	<folder>test</folder>
 	<filename>sybrog_img (28).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\tray redo\sybrog_img (28).jpg</path>
+	<path>C:\Users\Ikke\source\repos\klaasODD\data\images\test\sybrog_img (28).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,6 +12,18 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>tray</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>394</ymin>
+			<xmax>861</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>egg</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -21,18 +33,6 @@
 			<ymin>672</ymin>
 			<xmax>791</xmax>
 			<ymax>729</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tray</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>527</xmin>
-			<ymin>397</ymin>
-			<xmax>861</xmax>
-			<ymax>665</ymax>
 		</bndbox>
 	</object>
 </annotation>

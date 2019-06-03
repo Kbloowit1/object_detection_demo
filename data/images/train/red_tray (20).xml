@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tray redo</folder>
+	<folder>train</folder>
 	<filename>red_tray (20).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\tray redo\red_tray (20).jpg</path>
+	<path>C:\Users\Ikke\source\repos\klaasODD\data\images\train\red_tray (20).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>107</xmin>
-			<ymin>50</ymin>
-			<xmax>349</xmax>
-			<ymax>261</ymax>
+			<ymin>46</ymin>
+			<xmax>350</xmax>
+			<ymax>255</ymax>
 		</bndbox>
 	</object>
 </annotation>

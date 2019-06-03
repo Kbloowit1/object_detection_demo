@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tray redo</folder>
+	<folder>train</folder>
 	<filename>sybrog_img (59).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\tray redo\sybrog_img (59).jpg</path>
+	<path>C:\Users\Ikke\source\repos\klaasODD\data\images\train\sybrog_img (59).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>442</xmin>
-			<ymin>672</ymin>
-			<xmax>766</xmax>
-			<ymax>938</ymax>
+			<ymin>677</ymin>
+			<xmax>757</xmax>
+			<ymax>933</ymax>
 		</bndbox>
 	</object>
 </annotation>
