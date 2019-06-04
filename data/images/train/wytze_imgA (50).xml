@@ -1,7 +1,7 @@
 <annotation>
-	<folder>trainfoto</folder>
+	<folder>train</folder>
 	<filename>wytze_imgA (50).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\wytze trainfoto\trainfoto\wytze_imgA (50).jpg</path>
+	<path>C:\Users\Ikke\source\repos\object_detection_demo\data\images\train\wytze_imgA (50).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tray_right</name>
+		<name>tray</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

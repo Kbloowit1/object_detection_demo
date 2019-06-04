@@ -1,0 +1,38 @@
+<annotation>
+	<folder>niewfotdp</folder>
+	<filename>Car (39).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\niewfotdp\Car (39).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1062</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>253</ymin>
+			<xmax>95</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>beam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>251</ymin>
+			<xmax>436</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>
