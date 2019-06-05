@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Pictures</folder>
+	<folder>train</folder>
 	<filename>new_pics (65).jpg</filename>
-	<path>C:\Users\klaas\Pictures\Pictures\new_pics (65).jpg</path>
+	<path>C:\Users\Ikke\source\repos\object_detection_demo\data\images\train\new_pics (65).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>79</ymin>
 			<xmax>317</xmax>
 			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>182</ymin>
+			<xmax>529</xmax>
+			<ymax>237</ymax>
 		</bndbox>
 	</object>
 </annotation>
