@@ -1,7 +1,7 @@
 <annotation>
-	<folder>niewfotdp</folder>
+	<folder>train</folder>
 	<filename>Car (71).jpg</filename>
-	<path>C:\Users\Ikke\Desktop\niewfotdp\Car (71).jpg</path>
+	<path>C:\Users\Ikke\Desktop\Pictures\train\Car (71).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>beam</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>616</xmin>
-			<ymin>135</ymin>
-			<xmax>636</xmax>
-			<ymax>189</ymax>
+			<xmin>534</xmin>
+			<ymin>61</ymin>
+			<xmax>733</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>new_pics (48).jpg</filename>
+	<path>C:\Users\klaas\Pictures\Pictures\new_pics (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>83</ymin>
+			<xmax>444</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tray</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>103</ymin>
+			<xmax>114</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

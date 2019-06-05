@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>new_pics (69).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\Pictures\train\new_pics (69).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>99</ymin>
+			<xmax>326</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>82</ymin>
+			<xmax>394</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>
