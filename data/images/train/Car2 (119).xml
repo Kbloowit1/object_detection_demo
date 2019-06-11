@@ -1,0 +1,26 @@
+<annotation>
+	<folder>autoo</folder>
+	<filename>Car2 (119).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\autoo\Car2 (119).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1062</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>89</ymin>
+			<xmax>322</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>
