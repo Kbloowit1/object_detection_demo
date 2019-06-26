@@ -1,0 +1,38 @@
+<annotation>
+	<folder>m</folder>
+	<filename>trayyyy4 (160).jpg</filename>
+	<path>C:\Users\Ikke\Desktop\m\trayyyy4 (160).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1062</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tray</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>193</ymin>
+			<xmax>641</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tray</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>156</ymin>
+			<xmax>944</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
